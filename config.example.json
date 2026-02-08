@@ -1,0 +1,22 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "interval": 10000,
+  "statuses": [
+    {
+      "type": "WATCHING",
+      "text": "over servers"
+    },
+    {
+      "type": "PLAYING",
+      "text": "Minecraft"
+    },
+    {
+      "type": "LISTENING",
+      "text": "Spotify"
+    },
+    {
+      "type": "COMPETING",
+      "text": "Code Challenges"
+    }
+  ]
+}
